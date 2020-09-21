@@ -3,3 +3,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+section {
+  width: 900px;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 200px;
+}
